@@ -30,5 +30,5 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency "anyway_config"
   spec.add_dependency "influxdb"
-  spec.add_dependency "yabeda-prometheus"
+  spec.add_dependency "yabeda-prometheus-mmap"
 end
